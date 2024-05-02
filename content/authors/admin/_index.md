@@ -17,13 +17,13 @@ status: ''
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student in Strategy & Entrepreneurship
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: Singapore Management University (SMU)
+    url: https://smu.edu.sg/
+    
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
