@@ -1,7 +1,7 @@
 ---
 title: "Riding on the Fast Track to Debt Risk? Evidence from Subway Plan in China "
 publication_types:
-  - "3"
+  - "Preprint"
 authors:
   - Zhengchu Zhang
 publication: MPhil thesis
