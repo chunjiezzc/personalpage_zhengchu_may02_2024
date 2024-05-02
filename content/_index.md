@@ -49,7 +49,6 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
     design:
       columns: '2'
       view: card
@@ -61,7 +60,6 @@ sections:
       filters:
         folders:
           - wp
-        exclude_featured: true
     design:
       columns: '2'
       view: citation
@@ -73,7 +71,6 @@ sections:
       filters:
         folders:
           - wip
-        exclude_featured: true
     design:
       columns: '2'
       view: citation
