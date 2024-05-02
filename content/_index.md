@@ -60,12 +60,23 @@ sections:
 
       filters:
         folders:
-          - publication
+          - wp
         exclude_featured: true
     design:
       columns: '2'
       view: citation
+  - block: collection
+    content:
+      title: Work in Progress
+      text: |-
 
+      filters:
+        folders:
+          - wip
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: contact
     id: contact
     content:
