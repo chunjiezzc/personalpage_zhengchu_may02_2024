@@ -15,33 +15,19 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Using granular data on Californian wildfires and smoke, we examine the behavior of venture capitalists (VCs) and VC-backed startups after such events. We find that VCs are more likely to invest in ESG-oriented startups following wildfires, but decrease their average investment amount. We differentiate the effects of wildfires from smoke, uncovering the underlying mechanism of salience bias. For VC-backed startups, we observe an increase in green patent production following wildfires, indicating a shift towards more environmentally friendly innovations. While wildfires do not affect startups' near-future financing opportunities, they pose detrimental effects if encountered during the startups' nascent stage.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using granular data on Californian wildfires and smoke, we examine the behavior of venture capitalists (VCs) and VC-backed startups after such events. We find that VCs are more likely to invest in ESG-oriented startups following wildfires, but decrease their average investment amount. We differentiate the effects of wildfires from smoke, uncovering the underlying mechanism of salience bias. For VC-backed startups, we observe an increase in green patent production following wildfires, indicating a shift towards more environmentally friendly innovations. While wildfires do not affect startups' near-future financing opportunities, they pose detrimental effects if encountered during the startups' nascent stage.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: SSRN Link
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4807813
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,18 +35,13 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
