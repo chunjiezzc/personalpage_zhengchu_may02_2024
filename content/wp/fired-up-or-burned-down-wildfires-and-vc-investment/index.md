@@ -2,8 +2,8 @@
 title: "Fired Up or Burned Down: Wildfires and VC Investment"
 authors:
 - admin
-date: "2023-09-02T12:30:58.252Z"
-doi: ""
+date: "2024-04-26T12:30:58.252Z"
+doi: "http://dx.doi.org/10.2139/ssrn.4807813"
 
 
 # Publication type.
@@ -22,10 +22,10 @@ summary: Using granular data on Californian wildfires and smoke, we examine the 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
-- name: SSRN Link
+- name: Link (SSRN)
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4807813
 
 

@@ -38,13 +38,16 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- name: Link
+  url: https://manu30.magtech.com.cn/sjjj/CN/Y2023/V46/I1/216
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://manu30.magtech.com.cn/sjjj/CN/Y2023/V46/I1/216'
+url_source: ''
 url_video: ''
 
 # Featured image
