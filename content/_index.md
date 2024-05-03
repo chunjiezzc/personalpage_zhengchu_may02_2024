@@ -57,7 +57,6 @@ sections:
     content:
       title: Working Paper
       text: |-
-
       filters:
         folders:
           - wp

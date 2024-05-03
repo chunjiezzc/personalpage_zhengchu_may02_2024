@@ -20,8 +20,6 @@ abstract: Using granular data on Californian wildfires and smoke, we examine the
 # Summary. An optional shortened abstract.
 summary: Using granular data on Californian wildfires and smoke, we examine the behavior of venture capitalists (VCs) and VC-backed startups after such events. We find that VCs are more likely to invest in ESG-oriented startups following wildfires, but decrease their average investment amount. We differentiate the effects of wildfires from smoke, uncovering the underlying mechanism of salience bias. For VC-backed startups, we observe an increase in green patent production following wildfires, indicating a shift towards more environmentally friendly innovations. While wildfires do not affect startups' near-future financing opportunities, they pose detrimental effects if encountered during the startups' nascent stage.
 
-tags:
-- Source Themes
 featured: true
 
 links:
