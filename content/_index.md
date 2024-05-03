@@ -80,7 +80,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Contact me:
+
       # Contact (add or remove contact options as necessary)
       email: zc.zhang.2023@pbs.smu.edu.sg
       phone: (+65) 80671032
