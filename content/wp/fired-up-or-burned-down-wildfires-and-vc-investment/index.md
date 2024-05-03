@@ -3,7 +3,7 @@ title: "Fired Up or Burned Down: Wildfires and VC Investment"
 authors:
 - admin
 date: "2024-04-26T12:30:58.252Z"
-doi: "http://dx.doi.org/10.2139/ssrn.4807813"
+doi: ""
 
 
 # Publication type.
