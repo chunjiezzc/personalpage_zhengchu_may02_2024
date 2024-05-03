@@ -55,20 +55,6 @@ sections:
       view: card
   - block: collection
     content:
-      title: WP
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - wp
-        
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    content:
       title: Working Paper
       text: |-
       filters:
@@ -82,7 +68,6 @@ sections:
     content:
       title: Work in Progress
       text: |-
-
       filters:
         folders:
           - wip
