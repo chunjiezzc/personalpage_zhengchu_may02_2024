@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhengchu Zhang       张正出
+title: Zhengchu Zhang <br> 张正出
 
 # Name pronunciation (optional)
 name_pronunciation: ''

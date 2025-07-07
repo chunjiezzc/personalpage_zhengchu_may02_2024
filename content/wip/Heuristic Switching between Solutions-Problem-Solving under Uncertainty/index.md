@@ -3,9 +3,9 @@ title: "Heuristic Switching between Solutions: Problem-Solving under Uncertainty
 publication_types:
   - "Preprint"
 authors:
-  - Zhengchu Zhang
-  - Cyndi Man Zhang
-publication: Working Paper
+  - Zhengchu Zhang and Cyndi Man Zhang
+  
+publication: 
 draft: false
 featured: false
 image:
