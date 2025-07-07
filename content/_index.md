@@ -43,17 +43,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
-    id: featured
-    content:
-      title: Publication
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     content:
       title: Working Paper
       text: |-
@@ -74,6 +63,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: featured
+    content:
+      title: Pre-PhD Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: contact
     id: contact
     content:
