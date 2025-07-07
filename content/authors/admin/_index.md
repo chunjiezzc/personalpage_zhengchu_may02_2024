@@ -66,6 +66,6 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am currently a Ph.D. student at the Singapore Management University (SMU). I obtained my MPhil degree in Individualized Interdisciplinary Program (Urban Governance and Design) at the Hong Kong University of Science and Technology (HKUST) and my Bachelor’s degree in Business Administration at the University of International Business and Economics (UIBE).
+Welcome to my website! I am Zhengchu Zhang (张正出). I'm currently a Ph.D. student at the Singapore Management University (SMU). I obtained my MPhil degree in Individualized Interdisciplinary Program (Urban Governance and Design) at the Hong Kong University of Science and Technology (HKUST) and my Bachelor’s degree in Business Administration at the University of International Business and Economics (UIBE).
 My research interests include venture capital, entrepreneurship, and climate sustainability. You can find my [CV](uploads/CV_Zhengchu.pdf) here.
 {style="text-align: justify;"}
