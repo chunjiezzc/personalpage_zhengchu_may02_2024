@@ -1,0 +1,194 @@
+% !TEX program = xelatex
+%------------------------
+% Resume Template
+% Author: Zhengchu Zhang
+% License : 
+%------------------------
+
+\documentclass[a4paper,10pt]{article}
+\usepackage{latexsym}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[xetex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{xeCJK} 
+
+\pagestyle{fancy}
+\fancyhf{}                    
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[C]{\thepage}        
+\setlist[itemize]{itemsep=2pt, parsep=0pt, topsep=0pt}
+% Adjust margins
+\usepackage[a4paper,
+            left  = 0.8in,  
+            right = 0.8in,  
+            top   = 0.8in,    
+            bottom= 0.8in  
+           ]{geometry}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\newenvironment{indentsection}
+  {\setlength{\parindent}{2em}}
+  {\par}
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-3pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    {#1}{ #2 \vspace{0pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{0pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{0pt}\item
+    \begin{tabular*}{0.948\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      {#3} & {#4} \\
+    \end{tabular*}\vspace{0pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Zhengchu Zhang (张正出)}} & \textbf{Last update: September 2025}
+\end{tabular*}
+
+\vspace{5pt} 
+Email: \href{mailto:zc.zhang.2023@pbs.smu.edu.sg}{zc.zhang.2023@pbs.smu.edu.sg} \\
+\vspace{2pt} 
+Mobile: (65) 80671032 \\
+\vspace{2pt}
+Address: Lee Kong Chian School of Business, 50 Stamford Road, Singapore, 178899 \\
+\vspace{2pt}
+Website: \url{https://zhengchuzhang.netlify.app/}
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Singapore Management University (SMU) }{Singapore}
+      {PhD in Business (Strategy \& Entrepreneurship)}  {Aug 2023 - Present}
+    \resumeSubheading
+      {Hong Kong University of Science and Technology (HKUST)}{Hong Kong, China}
+      {MPhil in Individualized Interdisciplinary Program  }{Sept 2021 - Aug 2023}
+    \resumeSubheading
+    {University of International Business and Economics (UIBE)} {Beijing, China}
+    {B.A. in Business Administration (Highest Honor Degree)}{Sept 2017- Jun 2021}
+    \resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------Research Interests-----------------
+\section{Research Interests}
+    \hspace{1.5em}Entrepreneurship, Performance Feedback, Venture Capital 
+%-----------Working Paper-----------------
+\section{Working Paper}
+\begin{enumerate}[itemsep=0pt,label={[\arabic*]}]
+    \item ``Fired Up or Burned Down: Wildfires and VC Investment" {(with Wen Wang and Joy Tong), 2025, Under Review} 
+\end{enumerate}
+%-----------Work in Progress-----------------
+\section{Work in Progress}
+\begin{enumerate}[itemsep=0pt,label={[\arabic*]}]
+    \item {``Heuristic Switching between Solutions: Problem-Solving under Uncertainty" { (with Cyndi Man Zhang)  } } 
+\end{enumerate}
+%------------------Published Paper
+\section{Pre-Doctoral Publications}
+\begin{enumerate}[label={[\arabic*]}]
+    \item ``Trade Liberalization, Private Interest, and Managerial Efficiency: Theory and China's Experience" {(with Hongjun Xie and Xiao Chen), \textbf{The Journal of World Economy (世界经济)}, 2023, 46(01):216-244. \textit{(In Chinese)}}
+\end{enumerate}
+%{Abstract: This paper comprehensively analyzes the heterogeneous effects of intermediate and final goods trade liberalization on firms' managerial efficiency. To account for the agency problem between owners and managers in a two-country general equilibrium model, we introduce a non-zero agency cost that prevents owners from perfectly monitoring managers' behavior. The cost and terms-of-trade effects of intermediate goods liberalisation reinforce managers' private incentives. In contrast, the impact of final goods liberalisation on managerial efficiency depends on the relative strength of the beggar-thy-neighbor effect and the terms-of-trade effect. To empirically test our theoretical findings, we use firm-level data from China and construct valid indicators for managerial efficiency. Our results confirm that liberalization of intermediate goods significantly reduces managerial efficiency while liberalizing final goods enhances it. Moreover, we reveal how trade liberalisation affects managerial efficiency through profits and prices. This study contributes theoretically and empirically to understanding managerial efficiency decisions in an open economy. Our findings have important policy implications for corporate governance in trade liberalisation, improving firms' managerial efficiency and strengthening the foundation of microeconomic growth.}  
+%-----------Awards-----------------
+\section{Selected Awards}
+
+\begin{itemize}[itemsep=2pt,label=$\bullet$]
+    \item{Research Scholarship  (Full Scholarship), SMU}\hfill{2023-2028 (Expected)}
+    \item{Postgraduate Studentship (Full Scholarship), HKUST}\hfill{2021-2023}
+    \item{National Scholarship, UIBE} \hfill{2020}
+\end{itemize}
+
+%-----------Grants-----------------
+\section{Grants}
+
+\begin{itemize}[itemsep=2pt,label=$\bullet$]
+    \item{Co-PI, ASEAN Business Research Initiative, with Cyndi Man Zhang, S\$9600} \hfill{2024-2026}
+\end{itemize}
+
+%-----------Presentations-----------------
+\section{Presentations}  
+{\textit{(* Presented by Co-authors)}} \\
+\vspace{3pt}
+\hspace{1.5em}\textbf{1. ``Fired Up or Burned Down: Wildfires and VC Investment''} 
+\begin{itemize}[leftmargin=0.5in]
+    \item Northern Finance Association Meetings (NFA)* \hfill 2025
+    \item China International Conference in Finance (CICF)* \hfill 2025
+    \item Eastern Finance Association (EFA)* \hfill 2025
+    \item Western Economic Association International (WEAI)* \hfill 2023
+    \item Annual Meetings of the Canadian Economics Association (CEA)* \hfill 2023
+\end{itemize}
+\vspace{5pt}
+
+\hspace{1.5em}\textbf{2. ``Heuristic Switching between Solutions: Problem-Solving under Uncertainty''} 
+\begin{itemize}[leftmargin=0.5in]
+    \item Annual Meeting of the Academy of Management (AOM) \hfill 2025
+    \item SMU Rising Scholar Conference \hfill 2025
+    \item Strategic Entrepreneurship Journal (SEJ) PDW \hfill 2025
+    \item Organization Science (OS) Workshop \hfill 2024
+\end{itemize}
+
+%-----------PROJECTS-----------------
+\section{Teaching Experience}
+
+\begin{itemize}[itemsep=2pt,label=$\bullet$]
+    \item {TA, MGMT 6020 Leading Digital Transformation, SMU } \hfill{2024 (*2)}
+    \item {TA, MGMT 656 Management \& Strategy, SMU } \hfill{2023}
+    \item {TA, EMIA 2020 Cross-disciplinary Design Thinking, HKUST}\hfill{2022}
+    \item {TA, Financial Accounting, UIBE} \hfill{2018}
+\end{itemize}
+
+\section{Professional Services}
+
+\begin{itemize}[itemsep=2pt,label=$\bullet$]
+    \item {Reviewer, Academy of Management} \hfill{2025}
+    \item {Reviewer, International Association for Chinese Management Research} \hfill{2024}
+\end{itemize}
+%-----------Programming and Language Skills-----------------
+\section{Programming and Language Skills}
+
+\begin{itemize}[itemsep=2pt,label=$\bullet$]
+    \item {Programming: Stata, ArcGIS, Python, LaTeX}
+    \item {Language: Chinese (native), English (fluent) }
+\end{itemize}
+
+\end{document}

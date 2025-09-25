@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Zhengchu Zhang"
+title: 张正出
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -29,15 +29,14 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Venture Capital
+  - Behavioral Theory of the Firm
   - Entrepreneurship
-  - Sustainability
+  - Venture Capital
 
 # Education to show in About widget
 education:
   courses:
-    - course: MPhil in Individualized Interdisciplinary Program (Urban Governance and
-        Design)
+    - course: MPhil in Individualized Interdisciplinary Program
       institution: Hong Kong University of Science and Technology
       year: 2023
     - course: BA in in Business Administration
@@ -60,12 +59,12 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Zhengchu.pdf
+    link: uploads/main.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Welcome to my website! I am Zhengchu Zhang (张正出). I'm currently a Ph.D. student at the Singapore Management University (SMU). I obtained my MPhil degree in Individualized Interdisciplinary Program (Urban Governance and Design) at the Hong Kong University of Science and Technology (HKUST) and my Bachelor’s degree in Business Administration at the University of International Business and Economics (UIBE).
-My research interests include venture capital, entrepreneurship, and climate sustainability. You can find my [CV](uploads/CV_Zhengchu.pdf) here.
+My research interests include Behavioral Theory of the Firm, Entrepreneurship, and Venture Capital. You can find my [CV](uploads/main.pdf) here.
 {style="text-align: justify;"}
