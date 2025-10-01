@@ -1,8 +1,8 @@
 ---
 title: "Fired Up or Burned Down: Wildfires and VC Investment"
 authors:
-  - Wen Wang
-  - Joy Tong, and Zhengchu Zhang
+  - Joy Tong
+  - Wen Wang, and Zhengchu Zhang
 date: "2025-08-19T12:30:58.252Z"
 doi: ""
 

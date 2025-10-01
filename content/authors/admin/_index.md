@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student in Strategy & Entrepreneurship
+role: Ph.D. Candidate in Strategy & Entrepreneurship
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Singapore Management University (SMU)
+  - name: Singapore Management University
     url: https://smu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,6 +65,6 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am Zhengchu Zhang (张正出). I'm currently a Ph.D. student at the Singapore Management University (SMU). I obtained my MPhil degree in Individualized Interdisciplinary Program (Urban Governance and Design) at the Hong Kong University of Science and Technology (HKUST) and my Bachelor’s degree in Business Administration at the University of International Business and Economics (UIBE).
+Welcome to my website! I am Zhengchu Zhang (张正出). I'm currently a Ph.D. candidate at the Singapore Management University (SMU). I obtained my MPhil degree in Individualized Interdisciplinary Program (Urban Governance and Design) at the Hong Kong University of Science and Technology (HKUST) and my Bachelor’s degree in Business Administration at the University of International Business and Economics (UIBE).
 My research interests include Behavioral Theory of the Firm, Entrepreneurship, and Venture Capital. You can find my [CV](uploads/main.pdf) here.
 {style="text-align: justify;"}
