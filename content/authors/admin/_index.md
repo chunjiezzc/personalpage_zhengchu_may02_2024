@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MPhil in Individualized Interdisciplinary Program
+    - course: MPhil in Individualized Interdisciplinary Program (Urban Governance and Design)
       institution: Hong Kong University of Science and Technology
       year: 2023
     - course: BA in in Business Administration
@@ -65,6 +65,6 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am Zhengchu Zhang (张正出). I'm currently a Ph.D. candidate at the Singapore Management University (SMU). I obtained my MPhil degree in Individualized Interdisciplinary Program (Urban Governance and Design) at the Hong Kong University of Science and Technology (HKUST) and my Bachelor’s degree in Business Administration at the University of International Business and Economics (UIBE).
+Welcome to my website! I am Zhengchu Zhang (张正出). I'm currently a Ph.D. candidate at the Singapore Management University (SMU). 
 My research interests include Behavioral Theory of the Firm, Entrepreneurship, and Venture Capital. You can find my [CV](uploads/main.pdf) here.
 {style="text-align: justify;"}
