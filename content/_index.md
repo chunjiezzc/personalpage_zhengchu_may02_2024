@@ -74,6 +74,17 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: collection
+    id: useful-links
+    content:
+      title: Useful Links
+      text: |-
+      filters:
+        folders:
+          - links
+    design:
+      columns: '2'
+      view: card
   - block: contact
     id: contact
     content:

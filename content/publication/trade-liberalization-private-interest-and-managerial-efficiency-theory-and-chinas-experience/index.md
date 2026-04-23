@@ -6,7 +6,7 @@ title: "Trade Liberalization, Private Interest, and Managerial Efficiency: Theor
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Hongjun Xie
-  - Xiao Chen and Zhengchu Zhang
+  - Xiao Chen, and Zhengchu Zhang
 
 
 date: 2023-01-02T12:25:41.132Z
