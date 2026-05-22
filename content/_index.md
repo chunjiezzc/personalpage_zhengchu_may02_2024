@@ -74,17 +74,24 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
+  - block: markdown
     id: useful-links
     content:
       title: Useful Links
       text: |-
-      filters:
-        folders:
-          - links
+        **Maintained by me**
+
+        - [Recent Management Literature Biweekly Digest](https://github.com/chunjiezzc/recent-management-literature-biweekly-digest) — a recent management literature digest, updated biweekly.
+
+        **Recommended**
+
+        - [Ten Lectures on Organizational Sociology](https://book.douban.com/subject/1085366/) — Zhou Xueguang *(in Chinese)*
+        - [Differentiated Questioning and the Art of Asking Research Questions](https://mp.weixin.qq.com/s/4GKBontdoYk9VuPqWqXYtw) — Zhao Dingxin *(in Chinese)*
+        - [The Craft of Research](https://www.amazon.sg/Craft-Research-Fifth-Wayne-Booth/dp/0226833887/) — Booth et al.
+        - [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) — Larry McEnerney (talk)
+        - [My Claude Code Setup](https://psantanna.com/claude-code-my-workflow/workflow-guide.html) — Pedro H. C. Sant'Anna
     design:
-      columns: '2'
-      view: card
+      columns: '1'
   - block: contact
     id: contact
     content:
