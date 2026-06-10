@@ -1,0 +1,11 @@
+// Override this file to add your own SCSS styling.
+
+// Publication cards: hide the orphan "·" divider when the date is hidden.
+// The theme always renders a middot-divider between the date and the journal
+// (date · journal). For in-press papers using `show_date: false`, the date
+// span is gone, leaving the divider dangling before the journal (· journal).
+// The divider only follows the authors <div> in that case, so target exactly
+// that: a divider whose immediately-preceding sibling is the authors div.
+.article-metadata > div + .middot-divider {
+  display: none;
+}

@@ -29,9 +29,9 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Behavioral Theory of the Firm
   - Entrepreneurship
-  - Venture Capital
+  - Organizational learning
+  - Knowledge production in research
 
 # Education to show in About widget
 education:
@@ -59,12 +59,12 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/main.pdf
+    link: uploads/CV_public_2026june.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Welcome to my website! I am Zhengchu Zhang (张正出). I'm currently a Ph.D. candidate at the Singapore Management University (SMU). 
-My research interests include Behavioral Theory of the Firm, Entrepreneurship, and Venture Capital. You can find my [CV](uploads/main.pdf) here.
+My research interests include Entrepreneurship, Organizational learning, and Knowledge production in research. You can find my [CV](uploads/CV_public_2026june.pdf) here.
 {style="text-align: justify;"}

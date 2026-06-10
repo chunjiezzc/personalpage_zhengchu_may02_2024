@@ -59,6 +59,11 @@ locale:
   time_format: '3:04 PM'
   address_format: en-us
 
+# Publication-specific display settings
+publications:
+  # Date shown on publication cards/pages. '2006' = year only (Go reference time).
+  date_format: '2006'
+
 # Site features
 
 features:
