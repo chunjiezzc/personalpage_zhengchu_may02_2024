@@ -1,8 +1,8 @@
 ---
-title: "Local Search (different title from the submission)"
+title: "[Local Search] (different title from the submission)"
 authors:
   - Zhengchu Zhang and Cyndi Man Zhang
-date: "2026-01-01T00:00:00Z"
+date: "2026-07-01T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -11,7 +11,7 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Revise and Resubmit, Academy of Management Journal"
 publication_short: ""
 
 abstract:

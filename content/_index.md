@@ -82,7 +82,8 @@ sections:
         **Maintained by me**
 
         - [Recent Management Literature Biweekly Digest](https://github.com/chunjiezzc/recent-management-literature-biweekly-digest) — a recent management literature digest, updated biweekly.
-
+        - [Writing like AMJ](https://github.com/chunjiezzc/Write-like-AMJ) — an AMJ writing-style skill for the Academy of Management Journal (AMJ).
+        
         **Recommended**
 
         - [Ten Lectures on Organizational Sociology](https://book.douban.com/subject/1085366/) — Zhou Xueguang *(in Chinese)*
